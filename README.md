@@ -33,4 +33,17 @@ Task: 2
 Earnings: 400
 
 Test case 3 :
-
+Enter the number of Jobs: 3
+Enter job start time, end time, and earnings:
+0900
+1030
+100
+1000
+1200
+100
+1100
+1200
+100
+The number of tasks and earnings available for others
+Task: 1
+Earnings: 100
