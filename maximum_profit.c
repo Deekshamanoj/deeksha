@@ -48,7 +48,7 @@ int main(){
         }
     }
 
-// pronting the final output
+// printing the final output
     printf("The number of tasks and earnings available for others\nTask: %d\nEarnings: %d\n", n-count, earnings);
 
     return 0;
